@@ -13,3 +13,5 @@ pip install keras
 
 -The system is base on CNN classification technic and for detect face
  it use Haar Cascade face technic
+
+LAUNCH THE PROGRAM WITH command python3 program.py
