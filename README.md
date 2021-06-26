@@ -7,11 +7,11 @@ pip install opencv-python
 pip install keras
 
 
--It is a program which recognize your a laugh on your face, based on Tensorflow and Keras libraries
+- It is a program which recognize your a laugh on your face, based on Tensorflow and Keras libraries
 
--Made 100% in PYTHON programming Language 
+- Made 100% in PYTHON programming Language 
 
--The system is base on CNN classification technic and for detect face
+- The system is base on CNN classification technic and for detect face
  it use Haar Cascade face technic
 
-LAUNCH THE PROGRAM WITH command python3 program.py
+LAUNCH THE PROGRAM WITH command : python3 program.py
